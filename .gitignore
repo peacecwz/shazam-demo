@@ -1,0 +1,10 @@
+**/.vscode
+.DS_Store
+
+*.py[cod]
+*$py.class
+
+*.wav
+*.mp3
+
+**/*.db
