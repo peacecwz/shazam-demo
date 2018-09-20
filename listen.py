@@ -19,8 +19,8 @@ if __name__ == '__main__':
   args = parser.parse_args()
 
   if not args.seconds:
-    parser.print_help()
-    sys.exit(0)
+    print colored("Warning: You don't set any second. It's 10 by default", "yellow")
+    args.seconds = "10"
 
   seconds = int(args.seconds)
 
