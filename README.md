@@ -1,6 +1,6 @@
 # Shazam Demo
 
-This project is about Shazam Demo. You are going to kearn how to analyze and index musics to database and search for musics in database. I'm going to add "How to use", "How is it working?" sections soon.
+This project is about Shazam Demo. You are going to kearn how to analyze and index musics to database and search for musics in database.
 
 ## Installing
 
