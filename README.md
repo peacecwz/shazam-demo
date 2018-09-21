@@ -35,7 +35,7 @@ python listen.py -s 5
 
 ## How is it work
 
-I have written an article with "How Shazam's audio search algorithm works?" title. You may read it at ![here](http://devnot.com/2018/shazam-in-muzik-arama-algoritmasi-nasil-calisir/) (Article is in Turkish. You may try Google, Yandex or Bing Translation.)
+I have written an article with "How Shazam's audio search algorithm works?" title. You may read it at [here](http://devnot.com/2018/shazam-in-muzik-arama-algoritmasi-nasil-calisir/) (Article is in Turkish. You may try Google, Yandex or Bing Translation.)
 
 ## Dependencies
 
