@@ -1,10 +1,10 @@
 # Shazam Demo
 
-This project is about Shazam Demo. How to analyze and index musics to database and search musics in database. I will add "How to use", "How is it working?" etc...
+This project is about Shazam Demo. You are going to kearn how to analyze and index musics to database and search for musics in database. I'm going to add "How to use", "How is it working?" sections soon.
 
 ## Installing
 
-First of all, you have to install Python 2.7 version and pip
+First of all, you should have installed Python version 2.7 and pip.
 
 ```
 pip install numpy termcolor pyaudio wave pydub
@@ -12,20 +12,20 @@ pip install numpy termcolor pyaudio wave pydub
 
 ## How to use
 
-1. Run reset.py file for clear and initialize your database
+1. Run reset.py file to clear and re-initialize your database
 
 ```
 python reset.py
 ```
 
-2. Put your mp3 files to mp3 folder
+2. Put your mp3 files into mp3 folder
 3. Run analyze.py 
 
 ```
 python analyze.py
 ```
 
-4. When you see indexed musics to database and run listen.py and open music for discovering. You have to pass second for listening offset (by default second is 10)
+4. When you see indexed musics to database and run listen.py to listen music to discover. You will have to pass a second parameter for listening offset (by default it is 10 seconds)
 
 ```
 python listen.py -s 5
@@ -35,7 +35,7 @@ python listen.py -s 5
 
 ## How is it work
 
-I have written an article about "How Shazam's audio search algorithm works?" You can see on ![here](http://devnot.com/2018/shazam-in-muzik-arama-algoritmasi-nasil-calisir/) (It's turkish article)
+I have written an article with "How Shazam's audio search algorithm works?" title. You may read it at ![here](http://devnot.com/2018/shazam-in-muzik-arama-algoritmasi-nasil-calisir/) (Article is in Turkish. You may try Google, Yandex or Bing Translation.)
 
 ## Dependencies
 
