@@ -2,7 +2,7 @@ import os
 import sys
 import src
 import src.analyzer as analyzer
-from src.reader_file import FileReader
+from src.filereader import FileReader
 from termcolor import colored
 from src.db import SQLiteDatabase
 

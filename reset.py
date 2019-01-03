@@ -14,7 +14,7 @@ if __name__ == '__main__':
       filehash  TEXT
     );
   """)
-  print colored('Created songs table',"green");
+  print colored('Created songs table','green');
 
   db.query("DROP TABLE IF EXISTS fingerprints;")
   print colored('Removed fingerprints',"red");
